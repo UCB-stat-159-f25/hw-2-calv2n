@@ -7,4 +7,8 @@ _This repository is public so that Binder can find it. All code and data is base
 
 This project is a notebook that goes through some typical signal processing tasks on strain time-series data associated with the LIGO Event data releases from the LIGO Open Science Center (LOSC). I have added additional reproducability by adding a Conda environment.yml, packaged some helper-functions into a python package, and more.
 
+### Binder Link:
+
+To see this finalized, visit the following Binder link:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-calv2n/HEAD?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb)
